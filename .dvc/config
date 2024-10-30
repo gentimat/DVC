@@ -1,0 +1,4 @@
+[core]
+    remote = mvremote
+['remote "mvremote"']
+    url = C:\Temp\Data\DVC
